@@ -7,7 +7,7 @@
         Ctrl + Shift + K
 
     PRO:
-        Seleccionar todas las ocurrencias de la selección
+        Seleccionar todas las ocurrencias de la selección (borra todas las lineas con esa ocurrencia)
         ⇧ ⌘ L
         Ctrl + Shift + L
 */

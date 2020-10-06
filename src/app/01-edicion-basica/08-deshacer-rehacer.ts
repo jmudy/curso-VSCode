@@ -12,7 +12,9 @@
 
 
 
-
+function holaMundo() {
+    return 'Saludos a todos';
+}
 
 
 // Demo
